@@ -29,5 +29,3 @@
 <p>After model training for 18 epochs, the model has achieved an accuracy of 85 % and a loss of 0.2519. (The conclusion here is that if the model trained for more epochs it will achieve more accuracy but due to limited resources I wasn't able to do that.)</p>
 <h2>Model Evaluation</h2>
 On test data, the model has achieved a loss of 0.97 and an accuracy of 70%.
-
-To tackle the spread of toxicity on the internet that many times leads to depression in many people I have built a deep learning system that determines whether a text contains toxicity or not.
