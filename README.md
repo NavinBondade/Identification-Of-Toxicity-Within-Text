@@ -9,7 +9,6 @@
   <li>Pandas </li>
   <li>Matplotlib</li>
   <li>Seaborn</li>
-  <li>Numpy</li>
   <li>Sklearn</li>
   <li>Spacy</li>
   <li>BeautifulSoup</li>
@@ -24,7 +23,7 @@
 <p>For identification of toxicity, I have created a hybrid model convolution plus gated recurrent unit model. The specialty of this model is that it leverages the benefit of a convolution neural network for feature extraction and learning long-term dependencies of the gated recurrent unit. The model uses one single-dimension convolution layer followed by two gated recurrent unit layers followed by two fully connected neural network layers for decision making. All the layers use RELU as an activation function except the last dense layer that uses the sigmoid activation function to map predicted values to probabilities between 0 and 1.</p>
 <h2>Model Traning</h2>
 <img src="https://github.com/NavinBondade/Identification-Of-Toxicity-Within-Text/blob/main/Graphs%20%26%20Pictures/Loss%20and%20Accuracy%20Combine.png" alt="loss_accuracy">
-<p>The model was trained for 18 epochs. During training, the model uses Adam as an optimizer for performing backpropagation and uses binary crossentropy as the loss function to penalize model more when it makes false predection.</p>
+<p>The model was trained for 18 epochs. During training, the model uses Adam as an optimizer for performing backpropagation and uses binary cross-entropy as the loss function to penalize the model more when it makes false prediction.</p>
 <h2>Model Analysis</h2>
 <p>After model training for 18 epochs, the model has achieved an accuracy of 85 % and a loss of 0.2519. (The conclusion here is that if the model trained for more epochs it will achieve more accuracy but due to limited resources I wasn't able to do that.)</p>
 <h2>Model Evaluation</h2>
