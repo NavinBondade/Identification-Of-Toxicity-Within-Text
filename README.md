@@ -19,7 +19,9 @@
 <img src="https://github.com/NavinBondade/Identification-Of-Toxicity-Within-Text/blob/main/Graphs%20&%20Pictures/word%20cloud.png?raw=true" alt="wordcloud_representation" >
 </p>  
 <h2>Target Class Distribution</h2>
+<p align="center">
 <img src="https://github.com/NavinBondade/Identification-Of-Toxicity-Within-Text/blob/main/Graphs%20&%20Pictures/Distribution%20Of%20Dependent%20Variable.png?raw=true" >
+</p>
 <h2>Model Details</h2>
 <p>For identification of toxicity, I have created a hybrid model convolution plus gated recurrent unit model. The specialty of this model is that it leverages the benefit of a convolution neural network for feature extraction and learning long-term dependencies of the gated recurrent unit. The model uses one single-dimension convolution layer followed by two gated recurrent unit layers followed by two fully connected neural network layers for decision making. All the layers use RELU as an activation function except the last dense layer that uses the sigmoid activation function to map predicted values to probabilities between 0 and 1.</p>
 <h2>Model Traning</h2>
