@@ -17,6 +17,7 @@
 <h2>Word Cloud Representation</h2>
 <p align="center">
 <img src="https://github.com/NavinBondade/Identification-Of-Toxicity-Within-Text/blob/main/Graphs%20&%20Pictures/word%20cloud.png?raw=true" alt="wordcloud_representation" >
+</p>  
 <h2>Target Class Distribution</h2>
 <img src="https://github.com/NavinBondade/Identification-Of-Toxicity-Within-Text/blob/main/Graphs%20&%20Pictures/Distribution%20Of%20Dependent%20Variable.png?raw=true" >
 <h2>Model Details</h2>
