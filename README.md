@@ -1,4 +1,9 @@
 # Identification Of Toxicity Within Text With Hybrid Convolution Plus Gated Recurrent Unit System
+<p align="center">
+<a href="https://nbviewer.jupyter.org/github/NavinBondade/Identification-Of-Toxicity-Within-Text-With-CNN-Plus-GRU-System/blob/main/Notebook/Identification_Of_Toxicity_Within_Text.ipynb" target="_blank">
+  <img align="center"  src="https://github.com/NavinBondade/Distinguishing-Fake-And-Real-News-With-Deep-Learning/blob/main/Graphs/button_if-github-fails-to-load-the-notebook-click-here%20(4).png?raw=true"/>
+</a>
+</p>
 <img src="https://www.e-medine.org/wp-content/uploads/2019/12/e-Medine-Europe-Hate-Speech_sito-1400x760px.jpg" width="950" height="520">
 <p>With the rise of the internet, social media has now become the central place for spreading hate and toxicity especially in the form of text. This not only leads to the spread of negative and toxic atmosphere but it also highly affect the individuals in form of depression or loss of confidence. To tackle this problem I have created an NLP integrated deep learning system that helps to determine automatically whether a text contains toxicity or not without any human help.</p>
 <h2>Libraries Used</h2>
